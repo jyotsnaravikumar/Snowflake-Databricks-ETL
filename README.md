@@ -1,4 +1,4 @@
-# Secured data ingestion(ELT) from an External Snowflake Account into Azure Blob store using Databricks secrets and Azure Keyvault
+# Secured data ingestion(ELT) from an External Snowflake Account into Azure Blob store using Azure Databricks secrets and Azure Keyvault
 
 ## Use secrets to keep data secure
 Sometimes accessing data requires that you authenticate to external data sources through JDBC. 
